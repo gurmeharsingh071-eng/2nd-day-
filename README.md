@@ -1,5 +1,4 @@
 # 2nd-day-
-Experience at college
 Effort and time	Related to	Time
 Academics	Physical activity 	3 hr
 Eating, Exercise	Physical activity 	3 hr
